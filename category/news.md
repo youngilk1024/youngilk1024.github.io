@@ -3,6 +3,7 @@ layout: category
 title: News
 ---
 
+This is news for my research-related stuff
 
 <table>
     <thead>
