@@ -15,13 +15,27 @@ Authors are listed in alphabetical order of their lastname in some papers.
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td style="text-align:center">ICCAD 2022</td>
+      <td><b>"Poster: Control-Flow Integrity in Low-end Embedded Devices"</b> <br>
+            Sashidhar Jakkamsetti, <u>Youngil Kim</u>, Andrew Searles, and Gene Tsudik <br>
+          <a href="https://arxiv.org/abs/2309.03574">Paper</a>
+        </td>      
+  </tr>
+  <tr>
+      <td style="text-align:center">ICCAD 2022</td>
+      <td><b>"Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence"</b> <br>
+            Sashidhar Jakkamsetti, <u>Youngil Kim</u>, and Gene Tsudik <br>
+          <a href="https://arxiv.org/abs/2309.03574">Paper</a>
+        </td>      
+  </tr>
   <tr>
       <td style="text-align:center">ICCAD 2022</td>
       <td><b>"CASU: Compromise Avoidance via Secure Updates
           for Low-end Embedded Systems"</b> <br>
             Ivan DeOliveiraNunes, Sashidhar Jakkamsetti, 
           <u>Youngil Kim</u>, and Gene Tsudik <br>
-          <a href="https://arxiv.org/pdf/2209.00813.pdf">Paper</a>
+          <a href="https://arxiv.org/abs/2209.00813">Paper</a>
         </td>      
     </tr>
     <tr>
