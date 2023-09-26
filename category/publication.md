@@ -16,14 +16,14 @@ Authors are listed in alphabetical order of their lastname in some papers.
   </thead>
   <tbody>
    <tr>
-      <td style="text-align:center">ICCAD 2022</td>
+      <td style="text-align:center">CCS 2023</td>
       <td><b>"Poster: Control-Flow Integrity in Low-end Embedded Devices"</b> <br>
             Sashidhar Jakkamsetti, <u>Youngil Kim</u>, Andrew Searles, and Gene Tsudik <br>
           <a href="https://arxiv.org/abs/2309.03574">Paper</a>
         </td>      
   </tr>
   <tr>
-      <td style="text-align:center">ICCAD 2022</td>
+      <td style="text-align:center">CCS 2023</td>
       <td><b>"Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence"</b> <br>
             Sashidhar Jakkamsetti, <u>Youngil Kim</u>, and Gene Tsudik <br>
           <a href="https://arxiv.org/abs/2309.03574">Paper</a>
