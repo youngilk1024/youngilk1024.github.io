@@ -16,14 +16,14 @@ This is news for my research-related stuff
     <tbody>
     <tr>
         <td style="text-align:center">Nov 28, 2023</td>
-        <td style="text-align:center">Paper Present [CCS 2023]</td>
+        <td style="text-align:center">Paper Presented [CCS 2023]</td>
         <td>
             "Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence"
         </td>      
     </tr>
     <tr>
         <td style="text-align:center">Sep 27, 2023</td>
-        <td style="text-align:center">Poster Present [CCS 2023]</td>
+        <td style="text-align:center">Poster Presented [CCS 2023]</td>
         <td>
             "Poster: Control-Flow Integrity in Low-end Embedded Devices"
         </td>      
