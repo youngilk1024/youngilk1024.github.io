@@ -3,7 +3,7 @@ layout: category
 title: Publications
 ---
 
-Authors are listed in alphabetical order of their lastname in some papers.
+Authors are listed in alphabetical order of their lastnames in some papers.
 
 <span style="font-size:150%">`Papers`</span><br>
 
@@ -19,7 +19,7 @@ Authors are listed in alphabetical order of their lastname in some papers.
       <td style="text-align:center">CCS 2023</td>
       <td><b>"Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence"</b> <br>
             Sashidhar Jakkamsetti, <u>Youngil Kim</u>, and Gene Tsudik <br>
-          <a href="https://arxiv.org/abs/2309.03574">Paper</a>
+          <a href="https://dl.acm.org/doi/10.1145/3576915.3623089">Paper</a>
         </td>      
   </tr>
   <tr>
@@ -28,7 +28,7 @@ Authors are listed in alphabetical order of their lastname in some papers.
           for Low-end Embedded Systems"</b> <br>
             Ivan DeOliveiraNunes, Sashidhar Jakkamsetti, 
           <u>Youngil Kim</u>, and Gene Tsudik <br>
-          <a href="https://arxiv.org/abs/2209.00813">Paper</a>
+          <a href="https://dl.acm.org/doi/10.1145/3508352.3549450">Paper</a>
         </td>      
     </tr>
     <tr>
@@ -41,6 +41,28 @@ Authors are listed in alphabetical order of their lastname in some papers.
     </tr>
   </tbody>
 </table>
+
+<span style="font-size:150%">`Miscellaneous`</span><br>
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:20%; text-align:center">Conference</th>
+      <th style="text-align:center">Title/Author</th>      
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td style="text-align:center">CCS 2023</td>
+      <td><b>"Poster: Control-Flow Integrity in Low-end Embedded Devices"</b> <br>
+            Sashidhar Jakkamsetti, <u>Youngil Kim</u>, Andrew Searles, and Gene Tsudik <br>
+          <a href="https://dl.acm.org/doi/10.1145/3576915.3624374">Poster</a>
+          <a href="https://link.growkudos.com/1qz6mash0cg">Article</a>
+        </td>      
+  </tr>
+  </tbody>
+</table>
+
 
 <span style="font-size:150%">`Patents`</span><br>
 
