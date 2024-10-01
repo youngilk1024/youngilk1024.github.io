@@ -3,7 +3,7 @@ layout: category
 title: News
 ---
 
-This is news for my research-related stuff
+This is news for my research-related stuff in my Ph.D. journey
 
 <table>
     <thead>
@@ -22,11 +22,11 @@ This is news for my research-related stuff
         </td>      
     </tr>
     <tr>
-        <td style="text-align:center">Sep 28, 2020</td>
+        <td style="text-align:center">May 15, 2024</td>
         <td style="text-align:center">Honor</td>
         <td>
-            Computer Science Department Research Fellowship
-        </td>      
+            Computer Science Department Research Fellowship during Summer 2024
+        </td>
     </tr>
     <tr>
         <td style="text-align:center">Apr 9, 2024</td>
@@ -35,7 +35,6 @@ This is news for my research-related stuff
             Advanced to Ph.D. Candidate!
         </td>      
     </tr>
-    <tbody>
     <tr>
         <td style="text-align:center">Nov 28, 2023</td>
         <td style="text-align:center">Paper Presented [CCS 2023]</td>

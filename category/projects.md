@@ -47,7 +47,7 @@ sidebar_link: true
 </p>
 
 <p class="message">  
-    <b> Privacy-enhanced architecture in Cellular network @ <i>UC Irvine with KAIST</i></b><br>
+    <b> Privacy-preserving architecture in Cellular network @ <i>UC Irvine with KAIST</i></b><br>
   <span style="font-size:80%">
     It has been widely reported that mobile operators have been selling user's information for their lucrative purpose.
     However, the adversary models including the mobile carriers have been overlooked.
