@@ -42,7 +42,7 @@ Authors are listed in alphabetical order of their lastnames in some papers.
   </tbody>
 </table>
 
-<span style="font-size:150%">`Miscellaneous`</span><br>
+<span style="font-size:150%">`Poster`</span><br>
 
 <table>
   <thead>

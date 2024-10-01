@@ -15,10 +15,24 @@ This is news for my research-related stuff
     </thead>
     <tbody>
     <tr>
+        <td style="text-align:center">Sep 30, 2024</td>
+        <td style="text-align:center">Teaching assistant @ UC Irvine</td>
+        <td>
+            CS134: Computer and Network Security, the undergrad course taught by Prof. Alfred Chen.
+        </td>      
+    </tr>
+    <tr>
+        <td style="text-align:center">Sep 28, 2020</td>
+        <td style="text-align:center">Honor</td>
+        <td>
+            Computer Science Department Research Fellowship
+        </td>      
+    </tr>
+    <tr>
         <td style="text-align:center">Apr 9, 2024</td>
         <td style="text-align:center">Event</td>
         <td>
-            "Advanced to Ph.D. Candidate!"
+            Advanced to Ph.D. Candidate!
         </td>      
     </tr>
     <tbody>
@@ -38,7 +52,7 @@ This is news for my research-related stuff
     </tr>
     <tr>
         <td style="text-align:center">Nov 22, 2023</td>
-        <td style="text-align:center">Article Posted [Kudos]</td>
+        <td onClick="location.href='https://www.growkudos.com/publications/10.1145%25252F3576915.3624374/reader/'" style="text-align:center;cursor:pointer;">Article Posted [Kudos]</td>
         <td onClick="location.href='https://www.growkudos.com/publications/10.1145%25252F3576915.3624374/reader/'" style="cursor:pointer;">
             "Poster: Control-Flow Integrity in Low-end Embedded Devices"
         </td>      
@@ -46,14 +60,14 @@ This is news for my research-related stuff
     <tr>
         <td style="text-align:center">Sep 11, 2023</td>
         <td style="text-align:center">Poster Accepted [CCS 2023]</td>
-        <td>
+        <td onClick="location.href='https://dl.acm.org/doi/abs/10.1145/3576915.3624374'" style="cursor:pointer;">
             "Poster: Control-Flow Integrity in Low-end Embedded Devices"
         </td>      
     </tr>
     <tr>
         <td style="text-align:center">Sep 5, 2023</td>
         <td style="text-align:center">Paper Accepted [CCS 2023]</td>
-        <td>
+        <td onClick="location.href='https://dl.acm.org/doi/abs/10.1145/3576915.3623089'" style="cursor:pointer;">
             "Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence"
         </td>      
     </tr>
@@ -94,10 +108,17 @@ This is news for my research-related stuff
         </td>      
     </tr>
     <tr>
-        <td style="text-align:center">Sep 28, 2020</td>
-        <td style="text-align:center">Honor</td>
+        <td style="text-align:center">sep 28, 2020</td>
+        <td style="text-align:center">honor</td>
         <td>
-            Dean's award scholarship 2020 at UC Irvine.
+            Enhanced CS Department Excellence Fellowship 2020-2021, awarded by Computer Science department.
+        </td>      
+    </tr>
+    <tr>
+        <td style="text-align:center">sep 28, 2020</td>
+        <td style="text-align:center">honor</td>
+        <td>
+            Dean's award scholarship 2020-2025 at uc irvine.
         </td>      
     </tr>
     <tr>
