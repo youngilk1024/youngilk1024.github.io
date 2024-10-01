@@ -15,6 +15,14 @@ This is news for my research-related stuff
     </thead>
     <tbody>
     <tr>
+        <td style="text-align:center">Apr 9, 2024</td>
+        <td style="text-align:center">Event</td>
+        <td>
+            "Advanced to Ph.D. Candidate!"
+        </td>      
+    </tr>
+    <tbody>
+    <tr>
         <td style="text-align:center">Nov 28, 2023</td>
         <td style="text-align:center">Paper Presented [CCS 2023]</td>
         <td>
@@ -31,7 +39,7 @@ This is news for my research-related stuff
     <tr>
         <td style="text-align:center">Nov 22, 2023</td>
         <td style="text-align:center">Article Posted [Kudos]</td>
-        <td>
+        <td onClick="location.href='https://www.growkudos.com/publications/10.1145%25252F3576915.3624374/reader/'" style="cursor:pointer;">
             "Poster: Control-Flow Integrity in Low-end Embedded Devices"
         </td>      
     </tr>
