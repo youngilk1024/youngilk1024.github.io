@@ -6,7 +6,7 @@ highlighter:      rouge
 # Setup
 title:            'Youngil Kim'
 tagline:          'Personal Website'
-description:      'PhD Student @ <a href="https://uci.edu/" target="_blank">UC Irvine</a>'
+description:      'PhD Candidate @ <a href="https://uci.edu/" target="_blank">UC Irvine</a>'
 url:              https://fongandrew.github.io
 # baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"

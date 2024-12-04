@@ -88,7 +88,7 @@ This is news for my research-related stuff in my Ph.D. journey
     <tr>
         <td style="text-align:center">Nov 22, 2023</td>
         <td style="text-align:center;cursor:pointer" onClick="window.open('https://www.growkudos.com/publications/10.1145%25252F3576915.3624374/reader/', '_blank');">Article Posted [Kudos]</td>
-        <td style="text-align:center;cursor:pointer" onClick="window.open('https://www.growkudos.com/publications/10.1145%25252F3576915.3624374/reader/', '_blank');">Article Posted [Kudos]
+        <td style="cursor:pointer" onClick="window.open('https://www.growkudos.com/publications/10.1145%25252F3576915.3624374/reader/', '_blank');">Article Posted [Kudos]
             "Run-time attack countermeasure for IoT devices"
         </td>
     </tr>
