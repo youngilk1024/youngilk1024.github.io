@@ -10,7 +10,7 @@ This is news for my research-related stuff in my Ph.D. journey
       <tr>
         <th style="width:15%; text-align:center">Date</th>
         <th style="width:20%; text-align:center">Summary</th>
-        <th style="text-align:center">Details</th>
+        <th style="width:60%; text-align:center">Details</th>
       </tr>
     </thead>
     <tbody>
