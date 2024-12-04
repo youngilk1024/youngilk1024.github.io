@@ -101,8 +101,8 @@ This is news for my research-related stuff in my Ph.D. journey
     </tr>
     <tr>
         <td style="text-align:center">Sep 5, 2023</td>
-        <td style="text-align:center">Paper Accepted [CCS 2023]</td>
-        <td onClick="location.href='https://dl.acm.org/doi/abs/10.1145/3576915.3623089'" style="cursor:pointer;">
+        <td style="text-align:center" onClick="location.href='https://dl.acm.org/doi/abs/10.1145/3576915.3623089'" style="cursor:pointer;">Paper Accepted [CCS 2023]</td>
+        <td >
             "Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence"
         </td>      
     </tr>
@@ -113,10 +113,9 @@ This is news for my research-related stuff in my Ph.D. journey
             "Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence"
         </td>      
     </tr>
-        <tr>
+    <tr>
         <td style="text-align:center">Jul 14, 2022</td>
-        <td style="text-align:center">Paper Accepted [ICCAD 2022]</td>
-        <td onClick="location.href='https://dl.acm.org/doi/10.1145/3508352.3549450'" style="cursor:pointer;">
+        <td style="text-align:center" onClick="location.href='https://dl.acm.org/doi/10.1145/3508352.3549450'" style="cursor:pointer;">Paper Accepted [ICCAD 2022] </td>
         <td>
             "CASU: Compromise Avoidance via Secure Updates
                 for Low-end Embedded Systems"
