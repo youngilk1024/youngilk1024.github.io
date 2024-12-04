@@ -80,29 +80,29 @@ This is news for my research-related stuff in my Ph.D. journey
     </tr>
     <tr>
         <td style="text-align:center">Sep 27, 2023</td>
-        <td style="text-align:center" onClick="window.open('http://www.google.com', '_blank');">Poster Presented [CCS 2023]</td>
+        <td style="text-align:center;cursor:pointer" onClick="window.open('https://dl.acm.org/doi/abs/10.1145/3576915.3624374', '_blank');">Poster Presented [CCS 2023]</td>
         <td>
             "Poster: Control-Flow Integrity in Low-end Embedded Devices"
         </td>      
     </tr>
     <tr>
         <td style="text-align:center">Nov 22, 2023</td>
-        <td onClick="location.href='https://www.growkudos.com/publications/10.1145%25252F3576915.3624374/reader/'" style="text-align:center;cursor:pointer;">Article Posted [Kudos]</td>
-        <td onClick="location.href='https://www.growkudos.com/publications/10.1145%25252F3576915.3624374/reader/'" style="cursor:pointer;">
+        <td style="text-align:center;cursor:pointer" onClick="window.open('https://www.growkudos.com/publications/10.1145%25252F3576915.3624374/reader/', '_blank');">Article Posted [Kudos]</td>
+        <td style="text-align:center;cursor:pointer" onClick="window.open('https://www.growkudos.com/publications/10.1145%25252F3576915.3624374/reader/', '_blank');">Article Posted [Kudos]
             "Run-time attack countermeasure for IoT devices"
-        </td>      
+        </td>
     </tr>
     <tr>
         <td style="text-align:center">Sep 11, 2023</td>
-        <td style="text-align:center;cursor:pointer;" onClick="location.href='https://dl.acm.org/doi/abs/10.1145/3576915.3624374'">Poster Accepted [CCS 2023]</td>
+        <td style="text-align:center;cursor:pointer" onClick="window.open('https://dl.acm.org/doi/abs/10.1145/3576915.3624374', '_blank');">Poster Accepted [CCS 2023]</td>
         <td >
             "Poster: Control-Flow Integrity in Low-end Embedded Devices"
         </td>      
     </tr>
     <tr>
         <td style="text-align:center">Sep 5, 2023</td>
-        <td style="text-align:center;cursor:pointer" onClick="location.href='https://dl.acm.org/doi/abs/10.1145/3576915.3623089'">Paper Accepted [CCS 2023]</td>
-        <td onClick="location.href='https://dl.acm.org/doi/abs/10.1145/3576915.3623089'" style="cursor:pointer;">
+        <td style="text-align:center;cursor:pointer" onClick="window.open('https://dl.acm.org/doi/abs/10.1145/3576915.3623089', '_blank');">Paper Accepted [CCS 2023]</td>
+        <td style="cursor:pointer" onClick="window.open('https://dl.acm.org/doi/abs/10.1145/3576915.3623089', '_blank');">
             "Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence"
         </td>      
     </tr>
@@ -115,7 +115,7 @@ This is news for my research-related stuff in my Ph.D. journey
     </tr>
     <tr>
         <td style="text-align:center">Jul 14, 2022</td>
-        <td style="text-align:center;cursor:pointer" onClick="location.href='https://dl.acm.org/doi/10.1145/3508352.3549450'">Paper Accepted [ICCAD 2022] </td>
+        <td style="text-align:center;cursor:pointer" onClick="window.open('https://dl.acm.org/doi/10.1145/3508352.3549450', '_blank');">Paper Accepted [ICCAD 2022]</td>
         <td>
             "CASU: Compromise Avoidance via Secure Updates
                 for Low-end Embedded Systems"
