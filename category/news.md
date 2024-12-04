@@ -80,7 +80,7 @@ This is news for my research-related stuff in my Ph.D. journey
     </tr>
     <tr>
         <td style="text-align:center">Sep 27, 2023</td>
-        <td style="text-align:center" onClinck="window.open('http://www.google.com', '_blank');">Poster Presented [CCS 2023]</td>
+        <td style="text-align:center" onClick="window.open('http://www.google.com', '_blank');">Poster Presented [CCS 2023]</td>
         <td>
             "Poster: Control-Flow Integrity in Low-end Embedded Devices"
         </td>      
