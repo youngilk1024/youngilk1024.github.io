@@ -15,6 +15,42 @@ This is news for my research-related stuff in my Ph.D. journey
     </thead>
     <tbody>
     <tr>
+        <td style="text-align:center">Dec 2, 2024</td>
+        <td style="text-align:center">Paper Accepted [PETS 2025]</td>
+        <td>
+            DB-PAISA: Discovery-Based Privacy-Agile IoT Sensing+Actuation
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">Nov 19, 2024</td>
+        <td style="text-align:center">Paper Accepted [DATE 2025]</td>
+        <td>
+            EILID: Execution Integrity for Low-end IoT Devices
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">Nov 8, 2024</td>
+        <td style="text-align:center">Honor</td>
+        <td>
+            PAISA has been presented before CSAW judges/participants from academia/industry.
+            Although we didn't win the competition, being selected as finalists is still a nice honor.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">Nov 1, 2024</td>
+        <td style="text-align:center">Major Revision [PETS 2025]</td>
+        <td>
+            DB-PAISA: Discovery-Based Privacy-Agile IoT Sensing+Actuation
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">Oct 20, 2024</td>
+        <td style="text-align:center">Honor</td>
+        <td>
+            PAISA (CCS'23) has been selected as one of 15 finalists (out of 194) in CSAW 2024.
+        </td>      
+    </tr>
+    <tr>
         <td style="text-align:center">Sep 30, 2024</td>
         <td style="text-align:center">Teaching assistant @ UC Irvine</td>
         <td>
@@ -80,6 +116,7 @@ This is news for my research-related stuff in my Ph.D. journey
         <tr>
         <td style="text-align:center">Jul 14, 2022</td>
         <td style="text-align:center">Paper Accepted [ICCAD 2022]</td>
+        <td onClick="location.href='https://dl.acm.org/doi/10.1145/3508352.3549450'" style="cursor:pointer;">
         <td>
             "CASU: Compromise Avoidance via Secure Updates
                 for Low-end Embedded Systems"

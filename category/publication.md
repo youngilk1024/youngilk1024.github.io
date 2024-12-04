@@ -3,7 +3,7 @@ layout: category
 title: Publications
 ---
 
-Authors are listed in alphabetical order of their lastnames in some papers.
+Authors are listed in alphabetical order of their lastnames in papers written at UC Ivine.
 
 <span style="font-size:150%">`Papers`</span><br>
 
@@ -15,6 +15,20 @@ Authors are listed in alphabetical order of their lastnames in some papers.
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td style="text-align:center">PETS 2025</td>
+      <td><b>"DB-PAISA: Discovery-Based Privacy-Agile IoT Sensing+Actuation"</b> <br>
+            Isita Bagayatkar, <u>Youngil Kim</u>, and Gene Tsudik <br>
+          <a href="">Paper</a>
+        </td>      
+  </tr>
+  <tr>
+      <td style="text-align:center">DATE 2025</td>
+      <td><b>"EILID: Execution Integrity for Low-end IoT Devices"</b> <br>
+            Sashidhar Jakkamsetti, <u>Youngil Kim</u>, Andrew Searles, and Gene Tsudik <br>
+          <a href="">Paper</a>
+        </td>      
+  </tr>
   <tr>
       <td style="text-align:center">CCS 2023</td>
       <td><b>"Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence"</b> <br>
