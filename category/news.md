@@ -16,7 +16,7 @@ This is news for my research-related stuff in my Ph.D. journey
     <tbody>
     <tr>
         <td style="text-align:center">Jan 22, 2025</td>
-        <td style="text-align:center">PhD Forum Accepted [DATE 2025]</td>
+        <td style="text-align:center">Abstraction Accepted [DATE 2025 Ph.D Forum]</td>
         <td>
            Active Root-of-Trust Architectures for Low-end Embedded Systems 
         </td>
