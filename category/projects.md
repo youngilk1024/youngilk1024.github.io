@@ -8,11 +8,10 @@ sidebar_link: true
 <p class="message">  
     <b> Execution integrity for Low‑end IoT devices (EILID) @ <i>UC Irvine</i></b><br>
     <span style="font-size:80%">
-    (In submission)
     Atop CASU, we have designed and implemented the control-flow integrity (CFI) technique to thwart runtime attacks.
     With instrumentation techniques at compile-time and a shadow stack securely supported by CASU hardware,
     we achieved backward-edge and function-level forward-edge CFI.
-    It is implemented on the Basys 3 board (synthesized with openMSP430) and its overhead is also analyzed.
+    EILID [DATE'2025] is implemented on the Basys 3 board (synthesized with openMSP430) and its overhead is also analyzed.
   </span>
 </p>
 
@@ -21,7 +20,7 @@ sidebar_link: true
     <span style="font-size:80%">
     (In submission)
     The project aims to deal with multiple provers (remote embedded devices) with minimum latency and TOCTOU (Time-of-check to Time-of-use) window.
-    It achieves constant-time attestation in each prover using CASU and RATA.
+    TRAIN [SenSys'2025] achieves constant-time attestation in each prover using CASU and RATA.
     Theoretically, they entirely remove TOCTOU windows (the inter-device TOCTOU and the time interval between two successive attestations).
     We have measured the attestation time (on Basys 3) and emulated network nodes using OMNeT++.
   </span>
@@ -30,8 +29,7 @@ sidebar_link: true
 <p class="message">  
     <b> Alternative approach for Transparency of IoT ecosystems @ <i>UC Irvine</i></b><br>
     <span style="font-size:80%">
-    (In submission)
-    Instead of continuous broadcasts from IoT devices, Discovery-Based PAISA (DB-PAISA) enables a user-initiated approach.
+    Instead of continuous broadcasts from IoT devices, Discovery-Based PAISA (DB-PAISA) [PETS'2025] enables a user-initiated approach.
     IoT devices only send their information when they receive requests from nearby users.
     It removes unnecessary runtime/traffic overheads incurred by PAISA when no users are around.
   </span>
@@ -40,6 +38,7 @@ sidebar_link: true
 <p class="message">  
     <b> CloakCam -- Privacy from birth: privacy-preserving photo capturing @ <i>UC Irvine</i></b><br>
     <span style="font-size:80%">
+    (In submission)
     With the advance of smart devices with cameras, concerns about being captured by others have arisen and this is likely getting more critical.
     In this project, we aim to provide a privacy-preserving photo-capturing service leveraging confidential computing.
     Faces are blurred by default by CloakCam and unblurred explicitly requested by users.

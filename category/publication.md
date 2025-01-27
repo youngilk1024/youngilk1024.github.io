@@ -16,17 +16,24 @@ Authors are listed in alphabetical order of their lastnames in papers written at
   </thead>
   <tbody>
   <tr>
+      <td style="text-align:center">SenSys 2025</td>
+      <td><b>"TOCTOU Resilient Attestation for IoT Networks"</b> <br>
+            Pavel Frolikov, <u>Youngil Kim</u>, Renascence Tarafder Prapty, and Gene Tsudik <br>
+          <a href="https://arxiv.org/abs/2412.11572">Paper</a>
+        </td>      
+  </tr>
+  <tr>
       <td style="text-align:center">PETS 2025</td>
       <td><b>"DB-PAISA: Discovery-Based Privacy-Agile IoT Sensing+Actuation"</b> <br>
             Isita Bagayatkar, <u>Youngil Kim</u>, and Gene Tsudik <br>
-          <a href="">Paper</a>
+          <a href="https://arxiv.org/abs/2412.11572">Paper</a>
         </td>      
   </tr>
   <tr>
       <td style="text-align:center">DATE 2025</td>
       <td><b>"EILID: Execution Integrity for Low-end IoT Devices"</b> <br>
             Sashidhar Jakkamsetti, <u>Youngil Kim</u>, Andrew Searles, and Gene Tsudik <br>
-          <a href="">Paper</a>
+          <a href="https://arxiv.org/abs/2501.09216">Paper</a>
         </td>      
   </tr>
   <tr>

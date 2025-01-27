@@ -15,6 +15,20 @@ This is news for my research-related stuff in my Ph.D. journey
     </thead>
     <tbody>
     <tr>
+        <td style="text-align:center">Jan 22, 2025</td>
+        <td style="text-align:center">PhD Forum Accepted [DATE 2025]</td>
+        <td>
+           Active Root-of-Trust Architectures for Low-end Embedded Systems 
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">Jan 21, 2025</td>
+        <td style="text-align:center">Paper Accepted [SenSys 2025]</td>
+        <td>
+            TOCTOU Resilient Attestation for IoT Networks
+        </td>
+    </tr>
+    <tr>
         <td style="text-align:center">Dec 2, 2024</td>
         <td style="text-align:center">Paper Accepted [PETS 2025]</td>
         <td>
