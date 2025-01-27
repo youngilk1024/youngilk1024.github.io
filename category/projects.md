@@ -18,7 +18,6 @@ sidebar_link: true
 <p class="message">  
     <b> Network attestation (aka Swarm attestation) @ <i>UC Irvine</i></b><br>
     <span style="font-size:80%">
-    (In submission)
     The project aims to deal with multiple provers (remote embedded devices) with minimum latency and TOCTOU (Time-of-check to Time-of-use) window.
     TRAIN [SenSys'2025] achieves constant-time attestation in each prover using CASU and RATA.
     Theoretically, they entirely remove TOCTOU windows (the inter-device TOCTOU and the time interval between two successive attestations).
